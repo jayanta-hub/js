@@ -1,0 +1,177 @@
+{
+    "template": {
+        "id": "apf-category_tech-1",
+        "name": "Technology",
+        "category": "technology",
+        "description": "",
+        "destinationPath": "test"
+    },
+    "pages": [
+        {
+            "title": "Page title",
+            "briks": [
+                {
+                    "brikId": "",
+                    "brikName": "brik 1",
+                    "editorId": "",
+                    "version": "*",
+                    "editable": true,
+                    "style": {
+                        "font": {
+                            "family": "",
+                            "size": "",
+                            "style": "",
+                            "color": "",
+                            "weight": ""
+                        },
+                        "backgroundColor": "",
+                        "color": ""
+                    },
+                    "data": [
+                        {
+                            "content": {
+                                "value": "",
+                                "label": "background Image",
+                                "type": "img",
+                                "for": "",
+                                "link": "https://media.istockphoto.com/id/1277063263/vector/abstract-blue-blurred-background.jpg?s=1024x1024&w=is&k=20&c=Vc0ue-oNP81lGbR7yJjouT8vXMVcxFvT18O8R1Pty1c="
+                            },
+                            "style": {
+                                "font": {
+                                    "family": "",
+                                    "size": "",
+                                    "style": "",
+                                    "color": "",
+                                    "weight": ""
+                                },
+                                "backgroundColor": ""
+                            },
+                            "editable": true,
+                            "display": "block"
+                        },
+                        {
+                            "brikId": "",
+                            "brikName": "brik 2",
+                            "editorId": "",
+                            "version": "*",
+                            "editable": true,
+                            "style": {
+                                "font": {
+                                    "family": "",
+                                    "size": "",
+                                    "style": "",
+                                    "color": "",
+                                    "weight": ""
+                                },
+                                "backgroundColor": "",
+                                "color": ""
+                            },
+                            "data": [
+                                {
+                                    "content": {
+                                        "value": "",
+                                        "label": "background Image",
+                                        "type": "img",
+                                        "for": "",
+                                        "link": "https://media.istockphoto.com/id/1277063263/vector/abstract-blue-blurred-background.jpg?s=1024x1024&w=is&k=20&c=Vc0ue-oNP81lGbR7yJjouT8vXMVcxFvT18O8R1Pty1c="
+                                    },
+                                    "style": {
+                                        "font": {
+                                            "family": "",
+                                            "size": "",
+                                            "style": "",
+                                            "color": "",
+                                            "weight": ""
+                                        },
+                                        "backgroundColor": ""
+                                    },
+                                    "editable": true,
+                                    "display": "block"
+                                }
+                            ]
+                        },
+                        [
+                            {
+                                "content": {
+                                    "value": "",
+                                    "label": "background Image",
+                                    "type": "img",
+                                    "for": "",
+                                    "link": "https://media.istockphoto.com/id/1277063263/vector/abstract-blue-blurred-background.jpg?s=1024x1024&w=is&k=20&c=Vc0ue-oNP81lGbR7yJjouT8vXMVcxFvT18O8R1Pty1c="
+                                },
+                                "style": {
+                                    "font": {
+                                        "family": "",
+                                        "size": "",
+                                        "style": "",
+                                        "color": "",
+                                        "weight": ""
+                                    },
+                                    "backgroundColor": ""
+                                },
+                                "editable": true,
+                                "display": "block"
+                            }
+                        ],
+                        [
+                            {
+                                "brikId": "",
+                                "brikName": "brik 3",
+                                "editorId": "",
+                                "version": "*",
+                                "editable": true,
+                                "style": {
+                                    "font": {
+                                        "family": "",
+                                        "size": "",
+                                        "style": "",
+                                        "color": "",
+                                        "weight": ""
+                                    },
+                                    "backgroundColor": "",
+                                    "color": ""
+                                },
+                                "data": [
+                                    {
+                                        "content": {
+                                            "value": "",
+                                            "label": "background Image",
+                                            "type": "img",
+                                            "for": "",
+                                            "link": "https://media.istockphoto.com/id/1277063263/vector/abstract-blue-blurred-background.jpg?s=1024x1024&w=is&k=20&c=Vc0ue-oNP81lGbR7yJjouT8vXMVcxFvT18O8R1Pty1c="
+                                        },
+                                        "style": {
+                                            "font": {
+                                                "family": "",
+                                                "size": "",
+                                                "style": "",
+                                                "color": "",
+                                                "weight": ""
+                                            },
+                                            "backgroundColor": ""
+                                        },
+                                        "editable": true,
+                                        "display": "block"
+                                    }
+                                ]
+                            }
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "plaster": {
+        "brikPlaster": {
+            "brikId": "@apf/brik-plaster",
+            "brikName": "BrikPlaster",
+            "isInternal": false,
+            "version": "*",
+            "globalCss": true,
+            "data": {
+                "editChildren": true,
+                "showEdit": true
+            }
+        }
+    }
+}

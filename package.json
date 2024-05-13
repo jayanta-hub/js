@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "nodemon test.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bhairesh/ez.js": "^1.2.3"
+  }
+}
